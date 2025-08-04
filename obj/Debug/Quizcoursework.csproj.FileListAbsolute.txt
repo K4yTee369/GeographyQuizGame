@@ -1,0 +1,14 @@
+D:\Coding tutorial\Application development\Quizcoursework\Quizcoursework\bin\Debug\Quizcoursework.exe.config
+D:\Coding tutorial\Application development\Quizcoursework\Quizcoursework\bin\Debug\Quizcoursework.exe
+D:\Coding tutorial\Application development\Quizcoursework\Quizcoursework\bin\Debug\Quizcoursework.pdb
+D:\Coding tutorial\Application development\Quizcoursework\Quizcoursework\obj\Debug\Quizcoursework.csproj.AssemblyReference.cache
+D:\Coding tutorial\Application development\Quizcoursework\Quizcoursework\obj\Debug\Quizcoursework.Properties.Resources.resources
+D:\Coding tutorial\Application development\Quizcoursework\Quizcoursework\obj\Debug\Quizcoursework.csproj.GenerateResource.cache
+D:\Coding tutorial\Application development\Quizcoursework\Quizcoursework\obj\Debug\Quizcoursework.csproj.CoreCompileInputs.cache
+D:\Coding tutorial\Application development\Quizcoursework\Quizcoursework\obj\Debug\Quizcoursework.exe
+D:\Coding tutorial\Application development\Quizcoursework\Quizcoursework\obj\Debug\Quizcoursework.pdb
+D:\Coding tutorial\Application development\Quizcoursework\Quizcoursework\obj\Debug\Quizcoursework.exe.config
+D:\Coding tutorial\Application development\Quizcoursework\Quizcoursework\obj\Debug\Quizcoursework.MainMenuform.resources
+D:\Coding tutorial\Application development\Quizcoursework\Quizcoursework\obj\Debug\Quizcoursework.QuestionEditorForm.resources
+D:\Coding tutorial\Application development\Quizcoursework\Quizcoursework\obj\Debug\Quizcoursework.QuestionForm.resources
+D:\Coding tutorial\Application development\Quizcoursework\Quizcoursework\obj\Debug\Quizcoursework.QuizForm.resources
