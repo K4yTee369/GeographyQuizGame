@@ -35,7 +35,7 @@ Quizcoursework/
 ```
 
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 git clone https://github.com/K4yTee369/GeographyQuizGame.git
@@ -46,10 +46,7 @@ git clone https://github.com/K4yTee369/GeographyQuizGame.git
 ```csharp
 string filePath = Path.Combine(Application.StartupPath, "questions.txt");
 ```
-
 4. Press Start (F5) to build and run.
-
 
 Author
 Khang Tran – 2025 COMP1551 Coursework Submission
-
